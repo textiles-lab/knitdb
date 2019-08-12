@@ -1,4 +1,4 @@
-# KnitDB [http://db.knit.zone](http://db.knit.zone)
+# KnitDB - [http://db.knit.zone](http://db.knit.zone)
 
 This repository contains the results of machine knitting and measuring a group of patterns.
 This collection first appeared as part of the KnitPick paper at UIST 2019 ([project page](https://textiles-lab.github.io/publications/2019-knitpick/)).
