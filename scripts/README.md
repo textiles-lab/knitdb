@@ -37,3 +37,11 @@ Basic DB tasks:
 	#place newer charts in 'src-newer/'
 	make sort-charts
 ```
+
+```
+#create knitout files (requres lab-internal 'knitdb_tomachine' code):
+	rm -f ../knitouts/*.knitout
+	python3 make-knitouts.py
+#or just:
+	make make-knitouts.py
+```
