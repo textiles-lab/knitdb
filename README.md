@@ -4,7 +4,7 @@ This repository contains the results of machine knitting and measuring a group o
 This collection first appeared as part of the KnitPick paper at UIST 2019 ([project page](https://textiles-lab.github.io/publications/2019-knitpick/)).
 
 These patterns were collected from the [Essential Stitch Collection](https://lccn.loc.gov/2009047907) book and the [Stitch Maps](https://stitch-maps.com/) web page; the [KnitPick paper](https://textiles-lab.github.io/publications/2019-knitpick/) describes how they were converted into 60x60 charts.
-All patterns were machine-knit on a Shima Seiki SWG 091N2 using Tamm Petit 2/30 acrylic yarn (Color T4221 - Medium Camel).
+All patterns were machine-knit on a 15-gauge Shima Seiki SWG091N2 using Tamm Petit 2/30 acrylic yarn (Color T4221 - Medium Camel).
 
 ## Measurements
 Measurements and notes for each swatch are available in the ```swatches.csv``` file.
