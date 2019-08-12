@@ -1,7 +1,5 @@
 Part of the [KnitDB project](http://db.knit.zone) at the [Carnegie Mellon Textiles Lab](https://textiles-lab.github.io/).
-
 For bugs, file a github issue.
-
 For other inquires, please contact [Jim McCann](http://www.cs.cmu.edu/~jmccann/).
 
 # KnitDB
