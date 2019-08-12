@@ -1,0 +1,22 @@
+
+CHARTS:
+ all present and accounted for
+
+KNITOUTS:
+ TODO: I hope the charts run?
+
+PHOTOS:
+
+Relaxed --
+ missing photos:
+  "101_1_212Three plus"
+
+Stretched --
+  missing photos:
+   "10_2_034BrokenRibBacketWeave"
+   "10_3_037SubtleTwist"
+
+Otherwise, downloading all .NEF files.
+
+ TODO: convert to non-raw format? white balance? original names?
+ TODO: use exiftool to reconstruct shooting order from "Create Date" stamps?
