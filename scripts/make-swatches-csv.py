@@ -9,12 +9,13 @@ import subprocess
 
 #based on: https://realpython.com/python-csv/#parsing-csv-files-with-pythons-built-in-csv-library
 
-out_file = open('swatches.csv', 'wb')
+out_file = open('../swatches.csv', 'wb')
 
 headers = [
 	'datID',
 	'datPos',
 	'patternName',
+	'simpleName',
 	'Source',
 	'Second Measurement?',
 	'Weight (g)',
@@ -39,6 +40,7 @@ for i in range(0, len(headers)):
 out_file.write(('"' + '","'.join(headers) + '"' + CRLF).encode('utf8'))
 
 patterns = set()
+names = set()
 
 with open('Swatch Log - Reorganized.csv', 'r') as csv_file:
 	csv_reader = csv.reader(csv_file, delimiter=',')
@@ -93,8 +95,10 @@ with open('Swatch Log - Reorganized.csv', 'r') as csv_file:
 			is_second = True
 		else:
 			assert(not (patternName in patterns))
-			simpleName = datID + "_" + datPos + "_" + simpleName
 			patterns.add(patternName)
+			assert(not (simpleName in names))
+			names.add(simpleName)
+			out_row[header_index['simpleName']] = quote(datID + "_" + datPos + "_" + simpleName)
 		#	out_row[header_index['Chart File']] = quote("charts/" + simpleName + ".chart")
 		#	out_row[header_index['Knitout File']] = quote("knitouts/" + simpleName + ".knitout")
 		#	out_row[header_index['Relaxed Photo Raw File']] = quote("photos/relaxed/" + simpleName + ".NEF")
@@ -114,4 +118,4 @@ with open('Swatch Log - Reorganized.csv', 'r') as csv_file:
 
 out_file.close()
 
-print("Wrote " + str(len(patterns)) + " patterns to 'swatches.csv'.")
+print("Wrote " + str(len(patterns)) + " patterns to '../swatches.csv'.")

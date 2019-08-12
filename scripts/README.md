@@ -11,7 +11,6 @@ Basic DB tasks:
 	gdrive export --mime text/csv 1IMrSV6Ko_APNaBrBPPJ-oIy15S53_X-9U_buCmDyZfA
 	#filters to create 'swatches.csv':
 	python3 make-swatches-csv.py
-	mv swatches.csv ../swatches.csv
 #or just:
 	make create-swatches-csv
 ```
@@ -28,8 +27,13 @@ Basic DB tasks:
 ```
 
 ```
-#sort older/newer charts to extract the ones for actually knitted swatches:
+#sort older/newer charts to extract the ones for actually knitted swatches (also simplifies names):
 	#place older charts in 'src-older/'
 	#place newer charts in 'src-newer/'
+	rm -f ../charts/*.chart
 	python3 sort-charts.py
+#or just:
+	#place older charts in 'src-older/'
+	#place newer charts in 'src-newer/'
+	make sort-charts
 ```

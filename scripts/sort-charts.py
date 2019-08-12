@@ -7,6 +7,7 @@ import subprocess
 #based on: https://realpython.com/python-csv/#parsing-csv-files-with-pythons-built-in-csv-library
 
 names = set()
+name_to_simple = dict()
 
 with open('../swatches.csv') as csv_file:
 	csv_reader = csv.reader(csv_file, delimiter=',')
@@ -15,9 +16,11 @@ with open('../swatches.csv') as csv_file:
 		datID = row[0]
 		datPos = row[1]
 		patternName = row[2]
-		isSecond = row[4]
+		simpleName = row[3]
+		isSecond = row[5]
 		if isSecond == "":
 			names.add(patternName)
+			name_to_simple[patternName] = simpleName
 
 print("Have " + str(len(names)) + " names.")
 
@@ -56,7 +59,6 @@ print("Ignored " + str(len(ignored)) + " names.")
 print("Have " + str(no_paths) + " charts with no paths, " + str(one_path) + " with one path, and " + str(many_paths) + " with more than one path.")
 
 
-subprocess.run(["rm",'-f','../charts/*.chart'])
 for kv in paths.items():
 	chart = kv[0]
 	paths = kv[1]
@@ -73,4 +75,4 @@ for kv in paths.items():
 			print("NOTE: '" + chart + "' has " + str(len(sums)) + " versions (using later one):\n" + "\n".join(paths))
 		paths = [paths.pop()] #use last path
 	assert(len(paths) == 1)
-	subprocess.run(["cp",paths[0],'../charts/'])
+	subprocess.run(["cp",paths[0],'../charts/' + name_to_simple[chart] + ".chart"])
