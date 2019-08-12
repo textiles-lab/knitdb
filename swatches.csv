@@ -1,0 +1,306 @@
+"datID","datPos","patternName","Source","Second Measurement?","Weight (g)","Relaxed Width (mm)","Relaxed Height (mm)","Stretched Width (mm)","Stretched Height (mm)","Note"
+1,1,"001Garter_out.chart",ESC,,3.89,111,64,161,99,"has been reknit to get photos (original swatch was left stretching for some time)"
+1,2,"002FourRowWelting_out.chart",ESC,,3.79,111,56,280,70,
+1,3,"003GarterWelting_out.chart",ESC,,3.92,106,61,202,74,
+2,1,"004Stockinette_out.chart",ESC,,3.93,99,84,175,80,
+2,2,"005ReverseStockinette_out.chart",ESC,,3.85,100,78,181,86,
+2,3,"006Seed_out.chart",ESC,,4.21,119,85,244,95,"Note: multiple ""_dark"" photos for background coverage"
+3,1,"007Moss_out.chart",ESC,,4.20,103,104,215,90,
+3,2,"008SmallBlocks_out.chart",ESC,,4.05,107,84,202,92,
+3,3,"009k1p1rib_out.chart",ESC,,4.23,71,103,210,104,
+4,1,"010TwistedRib_out.chart",ESC,,4.37,73,101,215,106,"not actually really twisted- technically just a rib"
+4,2,"011BrokenSingleRib_out.chart",ESC,,4.09,97,86,218,75,
+4,3,"012Ribk2p2_out.chart",ESC,,4.12,61,95,179,86,
+5,1,"013BrokenDoubleRib_out.chart",ESC,,4.07,94,80,210,70,
+5,2,"014TuckedRib_out.chart",ESC,,4.14,84,89,224,75,
+5,3,"015KPDiagonals_out.chart",ESC,,4.07,103,81,200,80,
+6,1,"016LozengesStitch_out.chart",ESC,,4.04,110,75,206,81,
+6,2,"017SquaresInSquares_out.chart",ESC,,3.98,98,80,199,81,
+6,3,"018SeedDiamond_out.chart",ESC,,4.13,82,111,200,96,
+7,1,"019MossStitchDiamonds_out.chart",ESC,,4.15,102,92,195,91,
+7,2,"020DiamondBrocade_out.chart",ESC,,4.05,96,88,199,89,
+7,3,"023StarsBrocade_out.chart",ESC,,4.11,105,83,147,110,
+8,1,"024EmbossedHexagons_out.chart",ESC,,4.04,101,80,189,83,"Not sure if measurement corresponds to ""A"" or ""B"" photographs"
+8,2,"025EmbossedPennants_out.chart",ESC,,4.10,103,85,196,91,
+8,3,"027EmbossedChevrons_out.chart",ESC,,4.10,104,80,160,96,
+9,1,"028BrocadeNet_out.chart",ESC,,4.14,104,83,139,91,
+9,2,"029EmbossedMossDiamonds_out.chart",ESC,,4.15,104,95,201,95,
+9,3,"032Star_out.chart",ESC,,4.11,106,83,215,81,
+10,1,"033PlaidWeave_out.chart",ESC,,4.02,104,68,144,96,
+10,2,"034BrokenRibBacketWeave_out.chart",ESC,,4.01,101,79,143,90,"NOTE: stretched photograph missing"
+10,3,"037SubtleTwist_out.chart",ESC,,3.93,93,80,129,86,"NOTE: stretched photograph missing"
+11,1,"038WheatearRib_out.chart",ESC,,4.13,80,85,141,100,
+11,2,"039TexturedTrellis_out.chart",ESC,,4.11,95,86,151,85,
+11,3,"040GarterDiamond_out.chart",ESC,,4.01,96,79,150,94,
+12,1,"041LittleLattice_out.chart",ESC,,4.16,86,87,150,93,
+12,2,"043RocketTrail_out.chart",ESC,,3.82,99,83,178,85,
+12,3,"044InterlacedRib_out.chart",ESC,,3.91,85,89,150,100,
+13,1,"045DoubleInterlacedLattice_out.chart",ESC,,4.01,89,87,167,81,
+13,2,"047GrilleAndTwistPanel_out.chart",ESC,,4.08,86,88,164,99,
+13,3,"049TravelingTwists_out.chart",ESC,,4.27,86,91,163,91,
+14,1,"051TwistedMockCables_out.chart",ESC,,4.11,89,88,155,71,
+14,2,"052TwistedStemLeaves_out.chart",ESC,,3.96,94,83,160,83,
+14,3,"053OpenClosedDiagonals_out.chart",ESC,,3.94,104,74,155,86,
+15,1,"055BraidedRib_out.chart",ESC,,3.92,88,73,156,70,
+15,2,"056Lightning_out.chart",ESC,,3.95,97,75,163,78,
+15,3,"058PairedLeaves_out.chart",ESC,,4.06,91,82,159,86,
+16,1,"059TeaxturedWaves_out.chart",ESC,,4.17,105,85,186,90,
+16,2,"060MiniMockCableLattice_out.chart",ESC,,4.11,87,85,170,78,
+16,3,"062Illusion_out.chart",ESC,,3.92,91,77,148,75,
+17,1,"064Reed_out.chart",ESC,,4.07,90,84,161,95,"front/back side flip bug in pattern (repeat is wrong-side)"
+17,2,"066DoubleBranchingRib_out.chart",ESC,,4.03,89,88,182,86,"pretty sure ""B"" version of photos wasn't measured"
+17,3,"068EngravedDiamonds_out.chart",ESC,,3.88,91,79,154,71,
+18,1,"070InterwovenDiamonds_out.chart",ESC,,3.88,92,65,125,87,"reknit -- some dropped/weak stitches"
+18,2,"075Chain_out.chart",ESC,,3.87,84,71,120,80,
+18,3,"075WavesL_out.chart",ESC,,3.91,81,72,120,77,
+19,1,"075WavesR_out.chart",ESC,,3.89,81,72,120,80,
+19,2,"076DoubleHoneyComb_out.chart",ESC,,3.87,89,75,124,88,
+19,3,"077RopeAndHoop_out.chart",ESC,,3.80,81,83,131,100,
+20,1,"078CrackerChecks_out.chart",ESC,,3.98,91,79,170,80,"k/p inversion? ask megan (update: megan says this one is supposed to look like this)"
+20,2,"079DiagonalL_out.chart",ESC,,3.95,83,73,125,72,
+20,3,"079DiagonalR_out.chart",ESC,,3.98,81,77,123,73,
+21,1,"079StagHorn_out.chart",ESC,,3.91,86,76,130,91,
+21,2,"080WeatearCable_out.chart",ESC,,4.04,81,79,153,74,
+21,3,"081OffCenterCable_out.chart",ESC,,4.11,86,84,177,75,
+22,1,"083Braid_out.chart",ESC,,4.02,80,70,114,72,
+22,2,"083XO_out.chart",ESC,,4.04,86,68,119,86,
+22,3,"084NarrowRopeB_out.chart",ESC,,3.90,84,72,120,85,
+23,1,"085InterlockingDiagonals_out.chart",ESC,,4.06,86,76,134,85,
+23,2,"085NarrowRopeF_out.chart",ESC,,3.91,89,63,116,87,"a few dropped stitches"
+23,3,"086Zigzagbranch_out.chart",ESC,,4.24,90,80,139,92,
+24,1,"087OpenZigZag_out.chart",ESC,,3.85,100,80,151,82,
+24,2,"091CableNetwork_out.chart",ESC,,4.01,83,80,124,92,
+24,3,"094GrandDiamondPanel_out.chart",ESC,,3.99,95,79,162,76,
+25,1,"096DoubleCross_out.chart",ESC,,4.10,90,78,141,93,
+25,2,"097DiagonalDiamond_out.chart",ESC,,4.04,93,83,156,80,
+25,3,"103OverAndUnderCablePanel_out.chart",ESC,,4.02,82,76,123,96,"reknit because dropped stitch; stitches dropped (cable strain) even with new transfer planning"
+26,1,"104FramedDiamond_out.chart",ESC,,4.14,88,78,151,101,
+26,2,"122BabyShaleStitch_out.chart",ESC,,3.94,102,71,151,101,"continuous pickup (double decrease bug)"
+26,3,"123EyeLetRib_out.chart",ESC,,4.11,95,90,172,113,
+27,1,"124SpotStitch_out.chart",ESC,,4.04,109,83,182,94,
+27,2,"125CloverPowdering_out.chart",ESC,,4.01,105,82,179,83,
+27,3,"126OpenDiamonds_out.chart",ESC,,3.94,107,86,192,77,
+28,1,"127LaddersNarrow_out.chart",ESC,,3.90,102,85,193,80,
+28,2,"127LaddersWide_out.chart",ESC,,4.06,92,88,169,111,"investigate -- maybe dropping stitches? maybe intentional.  pattern is called ""ladder"".  has now been reknit."
+28,3,"128Fernleaf_out.chart",ESC,,3.91,108,82,172,87,
+29,1,"129BranchingFern_out.chart",ESC,,3.83,94,84,151,91,"double decrease bug? actually appears to not be a double decrease but a similar behavior. good test case for debugging."
+29,2,"131FourSpotLace_out.chart",ESC,,3.93,101,78,172,100,
+30,1,"133Harebell_out.chart",ESC,,4.00,104,83,162,105,"double decreases"
+30,2,"136ZigZagLace_out.chart",ESC,,3.81,115,82,170,109,
+30,3,"137ChevronLace_out.chart",ESC,,3.85,105,79,174,81,
+31,1,"138DaisyLadder_out.chart",ESC,,3.88,101,79,158,106,
+31,2,"139Crocus_out.chart",ESC,,3.84,104,82,171,104,"Two sets of stretched photos, not sure which corresponds to measurement."
+31,3,"140JeweledHeart_out.chart",ESC,,4.00,101,84,164,108,"chart was wrong size (probably happened when fixing the bad panel repeat); waiting for a new chart"
+32,1,"142LacyPaisley_out.chart",ESC,,3.99,105,77,166,92,
+32,2,"143TrellisAndVine_out.chart",ESC,,4.11,105,79,162,100,"measured twice"
+32,3,"144MoonFlower_out.chart",ESC,,4.08,101,90,177,108,
+33,1,"146FiligreeHeart_out.chart",ESC,,3.92,101,81,163,102,"needs a repeat fix from megan"
+33,2,"147DiamondWithDiamond_out.chart",ESC,,3.86,110,84,195,76,"lea needs to debug a double decrease, boo"
+33,3,"148DoublDiamondMesh_out.chart",ESC,,3.89,107,80,177,94,"dropped stitches"
+34,1,"150Triangles_out.chart",ESC,,3.81,101,83,182,94,
+34,2,"152OutlinedDaimonds_out.chart",ESC,,3.86,105,80,165,97,"has been reknit"
+34,3,"154LittleBranches_out.chart",ESC,,3.83,103,86,172,110,
+35,1,"155Lily_out.chart",ESC,,3.94,104,82,164,98,"*one* dropped stitch, so probably mechanical, not code error"
+35,2,"157RibbedLeaves_out.chart",ESC,,3.98,98,86,160,106,"several dropped stitches"
+35,3,"158FlowerGarden_out.chart",ESC,,3.93,101,86,185,82,
+36,1,"159FernLace_out.chart",ESC,,3.92,105,79,153,101,"dropped stitches"
+36,2,"162DaisyLace_out.chart",ESC,,3.88,106,80,161,95,"dropped stitches"
+37,1,"000No_out.chart",SM,,3.98,98,88,157,101,"double decrease bug (code error)"
+37,2,"0011_f909807e3256dfdf1fc151f54cc590e83fb9d750_out.chart",SM,,4.06,101,86,183,95,"double decrease bug (code error)"
+37,3,"002a_82adc44e8f2d9f77613fbd236c9740a063c5a0fc_out.chart",SM,,3.90,113,65,175,95,
+38,1,"003O_6143a4a044fa80bc1958e97fbc0814593efd0b5d_out.chart",SM,,3.87,101,87,173,80,
+38,2,"004FL_7b377e08c30e948417951e4d5ee722a1750cce05_out.chart",SM,,3.85,110,81,162,119,
+38,3,"005bat_34a0bae11b3751739fb449e2aba416b66a145be8_out.chart",SM,,3.91,105,83,182,94,"double decreases pass knitassist but are mechanically failing"
+39,1,"006hmm_e009fc6e0d715cf59bcd7fbb59ddd74fd0210f72_out.chart",SM,,3.81,110,83,177,100,"photo ""A"""
+,,"006hmm_e009fc6e0d715cf59bcd7fbb59ddd74fd0210f72_out.chart",SM,yes,3.84,108,83,187,93,"second measurement; photo ""B"""
+39,2,"007Owl_af2ec3fb81ce6779c3ed82b48a9d76b7d05b23f2_out.chart",SM,,3.90,92,80,171,84,"knit, but somehow lost its cables :("
+39,3,"008Pid_e8843cb93439b1df55279dfae7cc2f7e88ca8987_out.chart",SM,,4.15,83,95,227,87,"photo ""A"""
+,,"008Pid_e8843cb93439b1df55279dfae7cc2f7e88ca8987_out.chart",SM,yes,4.16,83,94,182,121,"second measurement; photo ""B"""
+40,1,"009stv_72059806309ddabda802dc431cbf0c3fb28101c6_out.chart",SM,,4.08,99,79,164,99,
+40,2,"010heat_6d10dd69114c06680d304884fc652202c8fbe7a7_out.chart",SM,,4.04,88,83,156,107,"deliberate double YO"
+40,3,"011hmmm_77509b5688b18f9bb595efa5f3de88ad6442b711_out.chart",SM,,3.93,104,83,169,95,
+41,1,"012Lace_9b48b057c1b0f8f5fdfcaabedf7bc2cbf77d84ae_out.chart",SM,,3.89,106,82,162,102,"double decrease"
+41,2,"013Leaf_977b99e05aa73950ff7f2290ead96460b4967f6e_out.chart",SM,,3.83,100,87,167,97,"double decrease"
+41,3,"014Leaf_eaee905491961ef7c45926feec3ad7603db27ab5_out.chart",SM,,3.87,103,85,168,99,"double decrease"
+42,1,"015Leaf_f6cd6750191f5f193385f9e87fc017fedb41e1aa_out.chart",SM,,4.05,104,84,179,97,
+42,2,"016Moon_23664ccb0b50ad8c2c50b11699961606de18693f_out.chart",SM,,3.83,109,85,174,108,
+42,3,"017Rain_a10feadb15543908e16bd387c48b10f34dfa7cb2_out.chart",SM,,3.77,107,83,173,92,
+43,1,"018seas_2530bcab9a93023d83575dc2658819a8b6cc35ff_out.chart",SM,,3.88,109,83,174,104,
+43,2,"019test_0c2b2b6c7fac13033b9e87a40d82332a266b1e67_out.chart",SM,,3.86,110,81,180,91,
+43,3,"020test_13bab4ebbb5c060e57d07369d8a1b5fb71de59e5_out.chart",SM,,3.94,108,82,171,105,
+44,1,"021test_29b57bab76928ce641c7252c90c769b13b79e5a5_out.chart",SM,,4.01,111,87,177,101,
+44,2,"022Test_48026a651a1aa68c4817df897cef6d86586cc448_out.chart",SM,,3.98,111,87,184,111,
+44,3,"023Test_68622b45b5c45d06a5b364c1ad7eebc0ef955d3f_out.chart",SM,,3.92,112,83,190,102,
+45,1,"024test_84501c8d6aefbfac2aaff2bcc68e40ba430294a1_out.chart",SM,,4.07,104,77,165,110,
+45,2,"026test_c619779dd9d7805e130d7e56f7c1d545bb93b317_out.chart",SM,,3.93,104,75,169,108,
+45,3,"027Test_d640e4f882d4c0d7951e6cdf5f21a5c487b63e4c_out.chart",SM,,3.76,104,82,172,100,
+46,1,"028Test_df6a58b5e8c03b29a288120750cfb88bb3fdbfc7_out.chart",SM,,3.97,110,79,199,99,
+46,2,"029tjum_1cb51105fcf264d70f88621048c49f4e2ef576bd_out.chart",SM,,3.96,114,79,167,94,"double decrease"
+46,3,"030Wave_00a56ff77532c138e9912127cb723d04cdf36ed9_out.chart",SM,,4.01,109,86,189,96,"deliberate double YO"
+47,1,"031Wave_fea69b8345482677e38ee2310dc35b93e8a7a963_out.chart",SM,,4.01,98,72,154,108,
+47,3,"033aj001_aba8a8ab6c7f543d7716e9cda5f4392a560af295_out.chart",SM,,4.08,98,73,176,97,
+48,1,"035curvy_f9ca0a1d8acc683c07dd4c79b57ca8e2e9ee7e2d_out.chart",SM,,3.92,99,83,171,97,"please check seems flat"
+48,2,"036Ferns_22316b055381c9b92c75cb2a20dd627b3ac1db95_out.chart",SM,,3.81,85,92,166,95,
+48,3,"037Folio_c7c3f1a18f6c8ce3186b9715cb93491f9d38bd6d_out.chart",SM,,3.86,103,81,169,107,"double YO"
+49,1,"039Lux 2_96f719e83df48dda6dc60239447dd48c2c2c41bb_out.chart",SM,,3.94,104,80,177,91,
+49,2,"040raven_a612e34aaa30b4f742111567a61da3ef59dd4e60_out.chart",SM,,4.04,93,89,184,108,"double YO (deliberate?)"
+49,3,"041test!_c673e7af4b13e5dfada770970a761bd631908243_out.chart",SM,,3.88,104,71,161,114,
+50,1,"042Totem_5096e84f9d630306dd1d35cfc3fccf08c1997f5b_out.chart",SM,,3.91,101,83,196,179,
+50,2,"043weavy_62e2febbac053e4e5e714e6fb2923cf51c949890_out.chart",SM,,4.13,93,86,195,86,"oily; may influence weight"
+50,3,"045Woven_9b43c718e4f4b61e85762cc4fec7652e4d5d7d44_out.chart",SM,,4.00,101,81,205,80,
+51,1,"046Acadia_918838a9c324b7e9e51d9aa2096f30c05aaa9275_out.chart",SM,,3.92,105,80,187,99,
+51,2,"048Bamboo_1282a00de3d6b6dc70a97e71e7db4e7273d2133a_out.chart",SM,,3.93,106,81,174,95,
+51,3,"049Cancun_0a5d01143dcbc86e11e39f0a7008864b18094b0d_out.chart",SM,,3.94,104,79,153,106,"double decrease"
+52,1,"050Idella_41f09fa5143f4fde80b1408ddbd2023af62e307f_out.chart",SM,,3.92,107,72,164,102,
+52,2,"051lace 1_d3c37dfe2355eba35d4ef33fc84be1682349a768_out.chart",SM,,3.97,106,79,179,107,
+52,3,"052Leaves_a7509276ba89a662faddc898cb10a4cc7afe7667_out.chart",SM,,4.00,86,85,169,103,
+53,1,"053Leaves_b62e4b681f869c312d5193b9b653b5028358c4c3_out.chart",SM,,4.07,86,86,171,100,
+53,2,"054Leaves_c1c31fd13af2f4f69b9e7a4e1019d89237b65a6b_out.chart",SM,,3.88,87,89,178,95,
+53,3,"055Lovely_a6ba256f3ce3adda8c04c1609c69fa43326b5876_out.chart",SM,,3.86,94,82,186,99,
+54,1,"056Medley_a9ce24bb78574be15f90a7e9b57d32e98a23d255_out.chart",SM,,3.91,94,91,183,114,
+54,2,"057Owlets_cecd47ff445909e50de23b8b1e18ebc32878eb37_out.chart",SM,,3.97,102,88,172,111,
+54,3,"058Pointy_09fd59aa65a1caa563abd92d91756d87b37b8b9b_out.chart",SM,,3.81,103,89,176,100,
+55,1,"059Random_54cd9e7dabc7ea76a099903f5b2a23ea9a01acd8_out.chart",SM,,3.93,94,84,184,102,
+55,2,"060ribbit_fb7d868e0f0ab45e43e83068a7f6b8e388ed281c_out.chart",SM,,4.18,119,83,202,119,
+55,3,"061Ribbon_41c007964076764747fceadae108ab0d3380e0ff_out.chart",SM,,3.82,112,82,184,99,
+56,1,"062Scarab_8ae36bbec6ac2ae4a4c09bf707e2f3cfcda9e454_out.chart",SM,,4.05,96,83,178,110,
+56,2,"063Spokes_bf3d3202373c3db9a59b00d182bace7a362de46f_out.chart",SM,,4.05,105,84,186,109,
+56,3,"064Subtle_de074f71e3eb0bba8e4389fcbb6e811bdb56d319_out.chart",SM,,3.76,107,83,163,105,
+57,1,"065Summer_0abfe3d8339dc168074831a883d26b98f3214ea3_out.chart",SM,,3.84,98,94,157,112,"deliberate double YO"
+57,2,"066Thorny_592d81daf437677a9a242c0ce3748be32e7e3230_out.chart",SM,,4.05,104,84,166,107,
+57,3,"067Twirly_56d31358ff7f5f2ee795657dcc7369bbab40d270_out.chart",SM,,3.98,92,87,174,102,
+58,1,"068Wave 1_35ecf5815b61b9445443c933bfc2c669b47f0468_out.chart",SM,,3.91,103,73,168,104,
+58,2,"069Beetles_f78814f997af9eccde9e42d90e3ae21519aa55d9_out.chart",SM,,3.85,107,84,164,112,
+58,3,"070Beloved_3d97e68e4ed40fe21a57b648045d440b71b39b97_out.chart",SM,,3.90,99,86,167,105,"not actually a viable pattern -- quadruple YO"
+59,1,"071Brianne_f4cb244811a277c954978254096041141bea1958_out.chart",SM,,3.85,94,84,159,110,
+59,2,"072brioche_dedead2e29a5ecee8dbdc3fc55106abd140a260b_out.chart",SM,,3.73,122,100,167,113,
+59,3,"073Cable 1_2fc3da45184e0ab97bbd8ea03ca67d0ab1549537_out.chart",SM,,3.75,86,72,124,89,
+60,1,"074Cable 2_63f17791daf33eb862cceb952f4fafe4d833b9fe_out.chart",SM,,4.01,95,78,156,85,
+60,2,"075Cable 3_9186101b6d066c842719a7b737a468863b0a4ce4_out.chart",SM,,3.90,89,71,121,91,"doesn't *seem* to have cables (""cable bug"")"
+60,3,"076Cascade_00394fb819deaa5ec947798de284ee381c0f64f6_out.chart",SM,,3.93,101,93,164,67,"(unskewed relaxed: 93w, 93h)"
+61,1,"077Cha-cha_d4dfd0281019c59e5f4ae638288b9c51959a89a4_out.chart",SM,,3.98,100,91,191,102,
+61,2,"078circles_5ecc9b213646a78f2986d6cd8923096400538954_out.chart",SM,,3.88,119,75,177,110,
+61,3,"079Corinna_37ab2196bf2f3c96b916621e6b9add7c189b1849_out.chart",SM,,3.87,107,81,187,101,
+62,1,"080Crystal_fc0c0c5ec55ca848da8a9d909de80d9ed25b14a8_out.chart",SM,,4.05,124,78,200,85,
+62,2,"081daisies_347bbddb374c2f285c8d931a0b5b0c0def822205_out.chart",SM,,3.82,112,80,184,99,
+62,3,"082diag ck_53989aaad07c719c4b48d3657423f39718056c20_out.chart",SM,,4.12,97,86,194,105,"ran out of yarn; needs to be reknit"
+63,1,"083Diamond_fa67fce91c7ca87bd9565417130a6fb51fd2e0d8_out.chart",SM,,4.04,114,87,195,103,
+63,2,"085Equinox_fd5ddf4283dc7d6f34725a5853decd97ed724afd_out.chart",SM,,3.83,102,83,172,100,"deliberate double YO"
+63,3,"086Furrows_3a05dfff2b97a9f5fcd89fb5c095e2f9e2c59638_out.chart",SM,,3.91,78,85,188,110,
+64,1,"087Garland_fc2e738188428301acf2e5c1b40a5d1691fe97b0_out.chart",SM,,3.91,100,82,175,103,
+64,2,"089Glacier_a487491b31ccd0f21c1dc9e6abb3abd48a8126f3_out.chart",SM,,3.89,99,87,163,105,"double decrease"
+64,3,"090Iceberg_abd45ddfeaee93f98654f52b4632afa8e87b6e20_out.chart",SM,,3.88,99,91,168,112,"deliberate double YO"
+65,2,"092Ripples_43fa0d121df98d9b497eb984825004818db5b76c_out.chart",SM,,3.95,103,79,188,111,
+65,3,"093saphill_c29ace1f7332942d1595bc6ba9795e0b46b45ca2_out.chart",SM,,3.99,102,80,183,102,
+66,1,"094shellac_456913693f9b30d9b32a03b08c5c0dcb2c64c39e_out.chart",SM,,3.87,100,83,162,92,
+66,2,"095teatest_019815c28ae460f518dcfc58cb28ddaefa982587_out.chart",SM,,3.80,108,87,172,92,
+66,3,"096teatest_60a22bca2c8eb0fbfb5a40a128354f2ee8b80d1f_out.chart",SM,,3.88,109,83,165,95,"NOTE: stretched image doesn't show tag, but is in the right place in the image sequence"
+67,1,"097teatest_ffb7e58651bf5cd34193ff48773e644fd8aa0d18_out.chart",SM,,3.96,110,82,178,91,
+67,2,"098Testing_df53f338ce6e296a0c40e1518dfc73a02cff2c88_out.chart",SM,,3.98,109,86,181,95,
+67,3,"099The Bat_bc5eb6c3650167aaee35380d461a78d8c82f6b10_out.chart",SM,,3.97,104,81,162,100,"second repeat is inverted? ask Megan"
+68,1,"100Upsweep_9c9d0d1fac974a8212750654369e20ee1ec550ed_out.chart",SM,,4.01,105,87,173,103,"few dropped stitches"
+68,2,"101Veeeees_0b426f1c7a653e47cd70d87eb31de967d9061c76_out.chart",SM,,3.84,101,81,157,90,
+68,3,"102Zig Zag_8c42ba1e9069bca66da3f7538a89fb5730d611bb_out.chart",SM,,3.89,95,74,153,74,
+69,1,"103Zip Zag_ac09687dd0962287f1e2ef1939029bd9132bb209_out.chart",SM,,3.93,108,73,178,96,
+69,2,"104BFF lace_463e0f67868d65250ae7b57504209ac734763204_out.chart",SM,,3.93,104,80,170,101,"has an eyelet right on the frame edge which may collide with frame eyelet but should be okay.
+Two sets of stretched photos, not sure which corresponds to measurement."
+69,3,"105Big eyes_d31eb618d372ad7df1d317d2c0fcf2ab47ea4894_out.chart",SM,,4.18,119,82,168,106,"1 dropped stitch"
+70,1,"106Boxed in_05a93e034ded2fb22ff9c4a029c85427ab73fa59_out.chart",SM,,4.20,100,82,168,102,
+70,2,"107Brokkoli_c63adb18edfa7d7eca3959da9e98489e64443cf3_out.chart",SM,,4.03,102,78,173,107,
+70,3,"108Burgundy_5fa21cf04b7282a1f73907b668abbae4f0f321ad_out.chart",SM,,3.98,107,81,172,105,
+71,1,"110Chevrons_595cdd4541f6235648d7bf8c2c0f01c8a8f1381b_out.chart",SM,,4.00,94,77,151,112,
+71,2,"111Diagonal_bb4a583a81c122d6f949a37115d8dffb2135abc0_out.chart",SM,,4.18,92,87,182,104,
+71,3,"112Diagonal_bf5d95ec065ab482fc34292ff3cc07a7f57c44e6_out.chart",SM,,4.14,99,83,182,100,
+72,1,"113Fir Cone_f53cdacc5e25f1594b0bacb119416b34fd9c3c39_out.chart",SM,,,96,78,162,89,
+72,2,"114Frozen 1_417b7a656e6ef0aad3c40c23289468dc08f44230_out.chart",SM,,4.18,101,71,145,100,
+72,3,"115FÑhnchen_26cd11b87665636f39eab27fa0002d4cc2662ac8_out.chart",SM,,3.86,99,73,151,104,
+73,1,"117Heatwave_b0bd129670b36ea1cea0c31f9a14460c3e711c2c_out.chart",SM,,3.87,93,82,153,114,
+73,2,"118Hex mesh_5c519deaa6cc2f30080638820b2e6f568428a756_out.chart",SM,,4.01,129,82,173,113,
+73,3,"119Hyacinth_05d5ed609c6e99b933fcfa165847879aa232c74f_out.chart",SM,,4.08,112,75,162,116,
+74,1,"122Lace Rib_029c65a2d0d52c54176a1cda9f0e5171db064ec1_out.chart",SM,,4.10,82,89,173,113,
+74,2,"123Lace rib_63862362314bbc67893c321066476b01c1180081_out.chart",SM,,4.16,95,86,160,114,
+74,3,"124lace rib_b2d7e4157c1a1a36a335f3f476b102b26ecd1f47_out.chart",SM,,4.12,99,81,174,111,
+75,1,"125Palmbaum_e0380befa9998f98b0929feef463925eb2869a07_out.chart",SM,,4.09,98,87,161,114,
+75,2,"126pawprint_de9cc8ccce79691e3bd0a8e9c2805596cb3fdcac_out.chart",SM,,4.00,104,79,157,102,
+75,3,"127Pelicans_84e173c0ef6c46ad5826bd93bde4eab24632ad0d_out.chart",SM,,4.00,120,75,168,103,
+76,1,"128Pigtails_4274814fb726d2d5cf366b1856438b916d6d01bf_out.chart",SM,,3.91,103,84,166,82,
+76,2,"129Pointers_17b107d5c435a38302e10ede447f0ca6ef5ab04d_out.chart",SM,,3.81,104,81,158,93,
+76,3,"133Sanpat 1_e7103f7ca8f54b3a503948315f42109ed9de0d7c_out.chart",SM,,3.79,117,74,157,95,
+77,1,"134Sea oats_202c1377f658c31247ccbd8db6b6794513b64b93_out.chart",SM,,4.12,112,84,175,102,
+77,2,"136Stairway_345a56dc7543ba3cbcd9d66b1c98b461c3b92494_out.chart",SM,,4.13,102,78,173,110,
+77,3,"137try lace_c283a25fd9fcb132c287a476a269d73ba0ebf4c0_out.chart",SM,,4.21,87,95,175,108,
+78,2,"140Angelfish_6488392a0aecf3bac0a29988ae21e4fc465c2b64_out.chart",SM,,4.00,109,81,172,100,
+78,3,"141Barb Moff_d00b1d1769d19af5d190e3416f3c0493509e4ccf_out.chart",SM,,3.88,116,66,168,106,
+79,1,"143Big Mossy_93078abe28db15727742d3bfa45a8ee17c3ae6bc_out.chart",SM,,4.22,101,101,195,123,
+79,2,"144Challenge_b93a3c9468bbf1f710ab2f026679701217623dc2_out.chart",SM,,3.96,104,79,172,105,
+80,1,"147Gull Lace_33de1b2b76b31f09cbc889d49cff2fa594c6faf5_out.chart",SM,,3.86,102,78,174,105,
+80,2,"148Heartless_bfdf5e275d05069cbf85e134a9dd69565b5bb7a1_out.chart",SM,,3.99,100,83,171,104,
+80,3,"149Hibernate_ca41ce165e39cf2481776281cedb00356855f1cf_out.chart",SM,,3.90,101,88,180,115,
+81,1,"150Honeycomb_6705c6fb22cdd7deff0b9a18ec37bd97ad94b30f_out.chart",SM,,4.00,120,74,177,100,
+81,2,"151Horseshoe_61fe296eea094bd580b389079ef0ba31900b3182_out.chart",SM,,4.09,109,73,165,97,
+81,3,"152Horseshoe_93e1701b946d7447a9070859ff00079e02e16c4c_out.chart",SM,,4.05,100,88,163,110,
+82,1,"153horseshoe_dc9c470e19622b14f27adc18f0b4f63a6529051e_out.chart",SM,,4.01,103,84,170,89,
+82,2,"154Interplay_6d32a867b1dcc89cc298b91928c552b682ea6084_out.chart",SM,,4.03,113,79,179,94,
+82,3,"155Josephine_535bf28c4dc7ad848db287e8ab5a0f7e2463f812_out.chart",SM,,4.12,110,91,189,100,
+83,1,"156lace edge_b1606df01a50883b27bcf62b0b22c5411d586551_out.chart",SM,,3.98,99,84,156,94,
+83,2,"157Lace Rose_a4f3cccb48329cda31848ecee716804c3ffd02bb_out.chart",SM,,4.02,102,80,165,100,"ladders when knitting (double-yo)"
+83,3,"158Lacy wave_b027a09b34ec2e775c05bae38ab4c168c621b4c2_out.chart",SM,,3.89,97,77,155,100,
+84,1,"159Leaf Lace_de01afef7ab0499cfae454dafd411781a0c47241_out.chart",SM,,3.93,119,79,161,94,
+84,2,"160Leaves #1_89ead50e3073f3947db8b24910fbd348844688af_out.chart",SM,,4.09,90,88,161,100,
+84,3,"161Leaves #2_af599a04920cc3e42ffd660e9c9083838fa25cf3_out.chart",SM,,4.20,88,87,170,99,
+85,2,"163Meander 2_e39cbc8a8ba11b148880ad8121528c8a39cf0dba_out.chart",SM,,4.01,120,76,181,99,
+85,3,"164Mini Twig_2fb2c196117a011743e42cf798d1be3f4931d2e6_out.chart",SM,,3.99,110,80,166,101,
+86,1,"165Pineapple_192165e6b1dafeb1da259952ff429ffedbc24b02_out.chart",SM,,3.83,105,82,157,92,
+86,2,"166Reverso 7_de5899274d78dc1e2b684e7206321d8888199922_out.chart",SM,,3.93,107,79,166,97,
+86,3,"167Shida 018_9930c11b964393e3112e43cd5fb7b44f3e939120_out.chart",SM,,4.12,102,86,178,97,
+87,1,"168Shida 021_ad6d7b78d4ec5e71b9d68bf210dd11b0a2327327_out.chart",SM,,4.22,88,99,194,108,
+87,2,"169Spirals 2_5312408358a4f6abb5d0a5812b11b0e4beef5355_out.chart",SM,,4.12,112,86,180,96,
+87,3,"170Spirals 3_a3f2cbf16cf0e9136c5b0edab9450f47b9400f93_out.chart",SM,,4.04,119,80,183,96,
+88,1,"171Swirl Rib_1e0b58aa68965752a17656a395308710aacc0de7_out.chart",SM,,4.14,97,95,144,106,
+88,2,"173Trellis 2_f9f51966a1defcc552b8ac39e1ac8683f5a11591_out.chart",SM,,4.01,104,81,171,97,"note a single continuous pickup"
+88,3,"175Waterfall_57de74fd1a0b7e3e7ac8ff1ccb65647a8d2ac24f_out.chart",SM,,3.97,101,85,157,98,
+89,1,"176Waterfall_be1c2fbc8af19ce531570b8e8931139ebb0ce02c_out.chart",SM,,3.96,104,89,171,92,
+89,2,"177Windswept_c76d8b0582606010cf3d4cfe5b1d5a0eba43671a_out.chart",SM,,4.01,102,85,159,100,"dropped a few stitches when knitting (in measured version)"
+89,3,"178Basic lace_dc9fe687457e88a1d220e93d596a385eefa913e7_out.chart",SM,,4.32,118,91,185,115,
+90,1,"179Basketry 2_397b02b05365b609b2aa5c6b5c2f947c4b5f9040_out.chart",SM,,4.06,111,83,169,101,
+90,2,"180Bear Track_331e2c1f1f5e2aa0d2bfe220442c9578e6c72204_out.chart",SM,,3.97,103,83,156,99,
+90,3,"181Blue flame_30871b7da7f9ab9f539130ae7d2c3b13816c8920_out.chart",SM,,4.05,101,87,157,99,
+91,1,"182Bud Stitch_b82f002352765210d6d42f15641ee7d136a4a88d_out.chart",SM,,4.09,100,81,167,90,
+91,2,"183Bud Stitch_de4d2499369599fb9174bcec507fe5f0d0b827d7_out.chart",SM,,4.07,98,82,154,98,
+91,3,"184Crossroads_017e6c43933da80d3fd55568f28617ae39bb140f_out.chart",SM,,4.02,100,86,172,105,
+92,1,"186Experiment_7d007dde47ca3bfe79838ab6268979dcae3608c2_out.chart",SM,,4.04,103,71,171,103,
+92,2,"187Eyecatcher_cf90279bcbab6f8658997adc452fa24a58b2213b_out.chart",SM,,4.21,99,90,206,98,
+92,3,"188faux cable_f349bd6c1e09402f7f07baece9dd4e54f42155f4_out.chart",SM,,4.06,77,94,201,106,
+93,1,"190Green lace_347d1bc92ffffc44736657a469bff6939c151b79_out.chart",SM,,3.99,122,74,182,102,
+93,2,"191Hagakiri 2_f9a94b43d1429c4bcecb980be18acf3b23395f3f_out.chart",SM,,4.05,110,80,164,98,
+93,3,"192Horseshoes_de1ef9c057641de0ab57a1e8be82a3835289cdc4_out.chart",SM,,4.05,99,85,171,102,
+94,1,"193lace block_d55c4c93b813fbd84a9126923055cb8d14ade5c8_out.chart",SM,,4.17,111,80,176,99,
+94,2,"194Lois Right_1d544438436b7dc7f701403b47264846ffe30312_out.chart",SM,,3.84,104,77,158,91,
+94,3,"195Make a Lap_a3be163c886b5ed73261ecaca857aa820a6758b5_out.chart",SM,,4.04,98,81,169,102,
+95,1,"196Maple Leaf_d097ab725a5d47c8b94be475a6466dae809b0581_out.chart",SM,,3.83,114,81,185,96,
+95,2,"197Maple Leaf_db143c6dc981708b4d11b6b11f37d47b16ac22c6_out.chart",SM,,3.80,116,82,179,99,
+95,3,"198Mock cable_50a629448e2ebffe6f53514a44f8fd925b014033_out.chart",SM,,3.26,83,88,152,110,
+96,1,"199Mock cable_8d5c9ef371ab521d21e236fed5a154a075d5f9e6_out.chart",SM,,4.09,96,86,168,100,
+96,2,"200Mock Cable_ba459c2e8f78b2ba22cef0df1cefee96a86664ff_out.chart",SM,,4.00,105,74,157,94,
+96,3,"201Pfauenauge_2207e9891885c1fd6e8d42d00268b63c793d03a0_out.chart",SM,,3.96,101,81,169,99,
+97,1,"202Ribbon Rib_5a3b71ad8d9cb57c484d3d0cf5b1faa2f6700ceb_out.chart",SM,,3.57,101,86,159,94,
+97,2,"203Rustic rib_ca2dc85a95b019554e2b434d42b62cf181d03d12_out.chart",SM,,4.07,92,91,152,121,
+97,3,"204Seaweeds 2_9b0d838121772e965c9a6acdcf929ea0b0e244b7_out.chart",SM,,3.90,100,85,170,105,
+98,1,"205Seeded Rib_72f5463d67160bdd1d7eff0d9df9cd0d24df3f87_out.chart",SM,,3.97,99,82,169,102,
+98,2,"206Shawl test_1afa939d78c1feb6425607d4745fcf44f0adfef3_out.chart",SM,,3.83,99,79,159,89,"verified: this is (and should be) stockinette + one line of garter"
+98,3,"208Split Leaf_474e5dda0b4c17146bdf2d1e4bc73f81b34cf181_out.chart",SM,,3.92,107,79,154,102,
+99,1,"209Split Leaf_965ee6d1699db54e303f1df2ba3225d7649458d1_out.chart",SM,,3.87,101,83,170,99,
+99,2,"210Suncatcher_84d686e39428c5d1dd8f9d02f0b107f44539b09f_out.chart",SM,,3.90,110,81,163,102,
+99,3,"211Switchback_e142f6b01da572790a9003fb44f4df50f3b82d74_out.chart",SM,,3.99,107,75,170,97,
+100,1,"212Three plus_bb2399467d7b26b800d5e41570bec392b9003251_out.chart",SM,,4.21,109,86,187,98,
+100,2,"213Trapezoids_249b43673706477a62b26227158a6a5655ddf715_out.chart",SM,,3.98,101,82,157,91,
+100,3,"214Vaduz Cowl_0676e4457e52319e0f96c79212aed2edb8267575_out.chart",SM,,3.87,98,83,172,89,
+101,2,"216Zopfmuster_b07fee834032b05a2caa37a96ec7075cd7fe323b_out.chart",SM,,3.93,89,82,147,94,
+101,3,"217Autumn Lace_ddad85f02738d8c741bd08c6d7a11df995eb27a2_out.chart",SM,,3.85,114,80,164,102,
+102,1,"218Bead Stitch_d7d5b9758f75d63a5310c3326b0b028a69499def_out.chart",SM,,3.86,117,79,169,111,
+102,3,"220bird stitch_0003fcdd5852424f2903141f410736463be7f607_out.chart",SM,,3.89,93,82,159,97,
+103,1,"223Cowboy Cowl_71be1c58c3c7538a113bc44b6394094bd2c80fb7_out.chart",SM,,3.81,99,85,170,100,
+103,2,"224Dance steps_269d87802f3684050a84d3e5c02c7748a59e13a3_out.chart",SM,,3.89,109,79,164,95,
+103,3,"225Dog Sweater_017fd832a7992c920362a581b990c56b21c6067e_out.chart",SM,,4.31,129,79,187,107,
+104,1,"227Eyelet Leaf_5e0a6e38507df7eedb30b3fa729eb89bc070a03b_out.chart",SM,,3.89,103,79,172,95,
+104,2,"228Floral mesh_df21a2f43e613445f79066d30e9b8a81dd12ece8_out.chart",SM,,3.87,107,79,166,95,
