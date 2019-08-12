@@ -51,6 +51,16 @@ We have included a variety of miscellaneous calibration images (```DSC_*.NEF```)
 
 ### Relaxed
 
+To save repository space, these photos are stored on google drive:
+https://drive.google.com/drive/folders/1FMwaVcfr_RN8J2lZSaw9dL3aTdHTbRpU
+
+If you have the [gdrive](https://github.com/gdrive-org/gdrive) utility, you can download them from the command line as follows:
+```
+	cd photos
+	#this will create a directory 'relaxed' with ~7.4G of photos:
+	gdrive download --recursive 1FMwaVcfr_RN8J2lZSaw9dL3aTdHTbRpU
+```
+
 Note that the photo ```101_1_212Three plus.NEF``` is missing.
 
 Location: ```photos/relaxed/```
@@ -60,6 +70,18 @@ Naming: ```simplePatternName.NEF```
 Format: Nikon raw file.
 
 ### Stretched
+
+To save repository space, these photos are stored on google drive:
+https://drive.google.com/drive/folders/1R8VuEuiK3v9HLXmnBzYGdHSUFcR5wTZK
+If you have the [gdrive](https://github.com/gdrive-org/gdrive) utility, you can download them from the command line as follows:
+```
+	cd photos
+	#this will create a directory 'stretched' with ~15G of photos:
+	gdrive download --recursive 1R8VuEuiK3v9HLXmnBzYGdHSUFcR5wTZK
+```
+
+
+To save repository space, these photos are stored on google drive:
 
 Note that the photos ```10_2_034BrokenRibBacketWeave_*.NEF``` and ```10_3_037SubtleTwist_*.NEF``` are missing.
 
