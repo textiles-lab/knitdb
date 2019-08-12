@@ -46,7 +46,7 @@ In other cases, swatches were mistakenly measured twice, in which case a ```.A``
 Photos are named by the ```DAT_POS_simplePatternName``` where ```DAT``` is the dat id, ```POS``` is the dat position and ```simplePatternName``` is the ```patternName``` from swatches.csv with everything after the first underscore removed (that is, the string ```_out.chart``` or ```_{40 hex digits}_out.chart``` has been removed).
 
 Note that the photos were taken in several sessions with different lighting and white balance settings (sessions can be recovered from EXIF data in the NEF files.)
-This is especially noticiable in the first set of relaxed photos, where the while balance stored with the file is significantly flawed.
+This is especially noticiable in the first set of relaxed photos, where the white balance stored with the file is significantly flawed.
 We have included a variety of miscellaneous calibration images (```DSC_*.NEF```) which may partially help with white balancing.
 
 ### Relaxed
