@@ -8,14 +8,17 @@ All patterns were machine-knit on a 15-gauge Shima Seiki SWG091N2 using Tamm Pet
 
 ## Measurements
 Measurements and notes for each swatch are available in the ```swatches.csv``` file.
+This is a simplified version of an (internal) google sheet available here:
+
+https://docs.google.com/spreadsheets/d/1IMrSV6Ko_APNaBrBPPJ-oIy15S53_X-9U_buCmDyZfA
+
+(requires a Carnegie-Mellon-affiliated Google account.)
 
 ## Charts
 Cart files are provided for reference but are in an undocumented and ideosyncratic format.
 If you believe these would be useful for you, please get in touch with the authors -- see [project page](https://textiles-lab.github.io/projects/knitdb/).
 
-Location: ```charts/```
-
-Naming: ```patternName``` from the swatches.csv file
+Location: ```charts/$(simpleName).chart``` (simpleName from the swatches.csv file)
 
 Format: ???
 
@@ -23,9 +26,7 @@ Format: ???
 We originally converted charts to knitting instructions using an old pipeline; we've retroactively modified this pipeline to also produce ```.knitout``` files to describe the instructions, and included the files here.
 To the best of our knowledge, these files exactly match what was knit. Please let us know if you find any discrepencies.
 
-Location: ```knitouts/```
-
-Naming: Same as chart, with ```.knitout``` extension instead of ```.chart```
+Location: ```knitouts/$(simpleName).knitout``` (simpleName from the swatches.csv file)
 
 Format: [knitout](https://github.com/textiles-lab/knitout)
 
@@ -63,9 +64,7 @@ If you have the [gdrive](https://github.com/gdrive-org/gdrive) utility, you can 
 
 Note that the photo ```101_1_212Three plus.NEF``` is missing.
 
-Location: ```photos/relaxed/```
-
-Naming: ```simplePatternName.NEF```
+Location: ```photos/relaxed/$(simpleName).NEF```
 
 Format: Nikon raw file.
 
@@ -83,8 +82,6 @@ If you have the [gdrive](https://github.com/gdrive-org/gdrive) utility, you can 
 
 Note that the photos ```10_2_034BrokenRibBacketWeave_*.NEF``` and ```10_3_037SubtleTwist_*.NEF``` are missing.
 
-Location: ```photos/stretched/```
-
-Naming: ```simplePatternName_light.NEF``` (light background), ```simplePatternName_dark.NEF``` (dark background)
+Location: ```photos/stretched/$(simpleName)_light.NEF``` (light background) and ```photos/stretched/$(simpleName)_dark.NEF``` (dark background)
 
 Format: Nikon raw file.
