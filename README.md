@@ -7,7 +7,7 @@ These patterns were collected from the [Essential Stitch Collection](https://lcc
 All patterns were machine-knit on a 15-gauge Shima Seiki SWG091N2 using Tamm Petit 2/30 acrylic yarn (Color T4221 - Medium Camel).
 
 ## Measurements
-Measurements and notes for each swatch are available in the ```swatches.csv``` file.
+Measurements and notes for each swatch are available in the [swatches.csv](swatches.csv) file.
 This is a simplified version of an (internal) google sheet available here:
 
 https://docs.google.com/spreadsheets/d/1IMrSV6Ko_APNaBrBPPJ-oIy15S53_X-9U_buCmDyZfA
