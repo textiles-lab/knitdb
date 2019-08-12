@@ -1,4 +1,10 @@
-# KnitDB - [http://db.knit.zone](http://db.knit.zone)
+Part of the [KnitDB project](http://db.knit.zone) at the [Carnegie Mellon Textiles Lab](https://textiles-lab.github.io/).
+
+For bugs, file a github issue.
+
+For other inquires, please contact [Jim McCann](http://www.cs.cmu.edu/~jmccann/).
+
+# KnitDB
 
 This repository contains the results of machine knitting and measuring a group of patterns.
 This collection first appeared as part of the KnitPick paper at UIST 2019 ([project page](https://textiles-lab.github.io/publications/2019-knitpick/)).
