@@ -1,10 +1,4 @@
 
-CHARTS:
- all present and accounted for
-
-KNITOUTS:
- TODO: I hope the charts run?
-
 PHOTOS:
 
 Relaxed --
