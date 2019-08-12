@@ -73,6 +73,7 @@ Format: Nikon raw file.
 
 To save repository space, these photos are stored on google drive:
 https://drive.google.com/drive/folders/1R8VuEuiK3v9HLXmnBzYGdHSUFcR5wTZK
+
 If you have the [gdrive](https://github.com/gdrive-org/gdrive) utility, you can download them from the command line as follows:
 ```
 	cd photos
