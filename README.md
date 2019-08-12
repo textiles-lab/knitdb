@@ -81,9 +81,6 @@ If you have the [gdrive](https://github.com/gdrive-org/gdrive) utility, you can 
 	gdrive download --recursive 1R8VuEuiK3v9HLXmnBzYGdHSUFcR5wTZK
 ```
 
-
-To save repository space, these photos are stored on google drive:
-
 Note that the photos ```10_2_034BrokenRibBacketWeave_*.NEF``` and ```10_3_037SubtleTwist_*.NEF``` are missing.
 
 Location: ```photos/stretched/```
