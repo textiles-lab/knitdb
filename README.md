@@ -7,6 +7,8 @@ For other inquires, please contact [Jim McCann](http://www.cs.cmu.edu/~jmccann/)
 This repository contains the results of machine knitting and measuring a group of patterns.
 This collection first appeared as part of the KnitPick paper at UIST 2019 ([project page](https://textiles-lab.github.io/publications/2019-knitpick/)).
 
+If you use data from this project, please cite the KnitDB project page as well as the KnitPick paper.
+
 These patterns were collected from the [Essential Stitch Collection](https://lccn.loc.gov/2009047907) book and the [Stitch Maps](https://stitch-maps.com/) web page; the [KnitPick paper](https://textiles-lab.github.io/publications/2019-knitpick/) describes how they were converted into 60x60 charts.
 All patterns were machine-knit on a 15-gauge Shima Seiki SWG091N2 using Tamm Petit 2/30 acrylic yarn (Color T4221 - Medium Camel).
 
@@ -24,7 +26,7 @@ If you believe these would be useful for you, please get in touch with the autho
 
 Location: ```charts/$(simpleName).chart``` (simpleName from the swatches.csv file)
 
-Format: ???
+Format: ??? (json-based graph of stitches)
 
 ## Machine Knitting Instructions
 We originally converted charts to knitting instructions using an old pipeline; we've retroactively modified this pipeline to also produce ```.knitout``` files to describe the instructions, and included the files here.
@@ -35,8 +37,15 @@ Location: ```knitouts/$(simpleName).knitout``` (simpleName from the swatches.csv
 Format: [knitout](https://github.com/textiles-lab/knitout)
 
 ## Stitch Meshes and Yarn Paths
-TODO: These can be created from ...
+These can be created from the knitout files by using the [smobj](https://github.com/textiles-lab/smobj) utilities.
+```
+#for example:
+	mkdir -p yarns smobjs
+	../smobj/utilities/knitout-to-smobj knitouts/5_2_014TuckedRib.knitout  smobjs/5_2_014TuckedRib.smobj
+	../smobj/utilities/smobj-to-yarns smobjs/5_2_014TuckedRib.smobj ../smobj/faces/knitout.sf yarns/5_2_014TuckedRib.yarns
+```
 
+Currently, the smobj utilties are under development so pre-computed yarns or smobj files are not available.
 
 ## Photos
 The swatches were photographed three times each as part of measurement.
@@ -47,8 +56,6 @@ In the stretched configuration, photos with both light and dark backgrounds were
 In some cases, swatches were photographed multiple times to correct errors, in which case a ```.2``` or ```.3``` is appended.
 In other cases, swatches were mistakenly measured twice, in which case a ```.A``` or ```.B``` is used to differentiate and a note appears in ```swatches.csv```.
 (In one instance, a swatch was photographed with the wrong side up, and this is also noted.)
-
-Photos are named by the ```DAT_POS_simplePatternName``` where ```DAT``` is the dat id, ```POS``` is the dat position and ```simplePatternName``` is the ```patternName``` from swatches.csv with everything after the first underscore removed (that is, the string ```_out.chart``` or ```_{40 hex digits}_out.chart``` has been removed).
 
 Note that the photos were taken in several sessions with different lighting and white balance settings (sessions can be recovered from EXIF data in the NEF files.)
 This is especially noticiable in the first set of relaxed photos, where the white balance stored with the file is significantly flawed.
