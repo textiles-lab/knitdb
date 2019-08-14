@@ -26,7 +26,7 @@ If you believe these would be useful for you, please get in touch with the autho
 
 Location: ```charts/$(simpleName).chart``` (simpleName from the swatches.csv file)
 
-Format: ??? (json-based graph of stitches)
+Format: JSON-based stitch graph, as described in the [KnitPick](https://textiles-lab.github.io/publications/2019-knitpick/) paper
 
 ## Machine Knitting Instructions
 We originally converted charts to knitting instructions using an old pipeline; we've retroactively modified this pipeline to also produce ```.knitout``` files to describe the instructions, and included the files here.
