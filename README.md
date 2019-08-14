@@ -45,6 +45,25 @@ These can be created from the knitout files by using the [smobj](https://github.
 	../smobj/utilities/smobj-to-yarns smobjs/5_2_014TuckedRib.smobj ../smobj/faces/knitout.sf yarns/5_2_014TuckedRib.yarns
 ```
 
+Scripts are also provided to make all the knitout files into smobj and yarns files:
+```
+#use as follows:
+	#NOTE: path to smobj utilities is hard-coded in these scripts; if you put them elsewhere you will need to edit
+	cd scripts
+	mkdir -p ../smobjs
+	rm -f ../smobjs/*.smobj
+	python3 make-smobjs-par.py
+	mkdir -p ../yarns
+	rm -f ../yarns/*.yarns
+	python3 make-yarns-par.py
+#or just:
+	cd scripts
+	make make-smobjs
+	make make-yarns
+```
+
+Word of forwarning: even though the ```make-*-par.py``` scripts do spawn a bunch of parallel worker threads, the process of generating these files still takes a few minutes (2.5 minutes on my relatively recent desktop).
+
 Currently, the smobj utilties are under development so pre-computed yarns or smobj files are not available.
 
 ## Photos

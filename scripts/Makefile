@@ -34,3 +34,13 @@ sort-charts :
 make-knitouts :
 	rm -f ../knitouts/*.knitout
 	python3 make-knitouts.py
+
+make-smobjs :
+	mkdir -p ../smobjs
+	rm -f ../smobjs/*.smobj
+	python3 make-smobjs-par.py
+
+make-yarns :
+	mkdir -p ../yarns
+	rm -f ../yarns/*.yarns
+	python3 make-yarns-par.py
