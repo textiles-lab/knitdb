@@ -2,7 +2,6 @@ GDRIVE=gdrive
 
 all : 
 
-
 create-swatches-csv :
 	rm -f 'Swatch Log - Reorganized.csv'
 	#creates 'Swatch Log - Reorganized.csv':
