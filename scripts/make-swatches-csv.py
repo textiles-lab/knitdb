@@ -76,10 +76,9 @@ with open('Swatch Log - Reorganized.csv', 'r') as csv_file:
 		##remove spaces:
 		#simpleName = simpleName.replace(' ','')
 
-		##remove the single non-low-ASCII character in the data set:
-		#simpleName = simpleName.replace('Ñ','a')
-
-		#simpleName.encode('ascii') #just check that this works
+		#remove the single non-low-ASCII character in the data set:
+		simpleName = simpleName.replace('Ñ','a')
+		simpleName.encode('ascii') #just check that this works
 
 		def quote(s):
 			if s == "": return s
