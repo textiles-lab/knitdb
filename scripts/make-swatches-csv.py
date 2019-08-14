@@ -18,7 +18,7 @@ headers = [
 	'simpleName',
 	'Source',
 	'Second Measurement?',
-	'Weight (g)',
+	'Mass (g)',
 	'Relaxed Width (mm)',
 	'Relaxed Height (mm)',
 	'Stretched Width (mm)',
@@ -76,10 +76,9 @@ with open('Swatch Log - Reorganized.csv', 'r') as csv_file:
 		##remove spaces:
 		#simpleName = simpleName.replace(' ','')
 
-		##remove the single non-low-ASCII character in the data set:
-		#simpleName = simpleName.replace('Ñ','a')
-
-		#simpleName.encode('ascii') #just check that this works
+		#remove the single non-low-ASCII character in the data set:
+		simpleName = simpleName.replace('Ñ','a')
+		simpleName.encode('ascii') #just check that this works
 
 		def quote(s):
 			if s == "": return s
@@ -105,7 +104,7 @@ with open('Swatch Log - Reorganized.csv', 'r') as csv_file:
 		#	out_row[header_index['Stretched Light Photo Raw File']] = quote("photos/stretched/" + simpleName + "_light.NEF")
 		#	out_row[header_index['Stretched Dark Photo Raw File']] = quote("photos/stretched/" + simpleName + "_dark.NEF")
 
-		out_row[header_index['Weight (g)']] = weight
+		out_row[header_index['Mass (g)']] = weight
 		out_row[header_index['Relaxed Width (mm)']] = widthRelaxed
 		out_row[header_index['Relaxed Height (mm)']] = heightRelaxed
 		out_row[header_index['Stretched Width (mm)']] = widthStretched

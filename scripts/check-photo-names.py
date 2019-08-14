@@ -17,22 +17,19 @@ with open('../swatches.csv') as csv_file:
 		datID = row[0]
 		datPos = row[1]
 		patternName = row[2]
-		isSecond = row[4]
+		simpleName = row[3]
+		isSecond = row[5]
 
 		if isSecond == "yes":
 			continue
-
-		simpleName = patternName[0:patternName.find('_')]
-
-		assert(not ('_' in simpleName))
 
 		if simpleName in names:
 			print("Duplicate name: " + simpleName)
 		names.add(simpleName)
 
-		relaxed_names.add(datID + "_" + datPos + "_" + simpleName + "")
-		stretched_names.add(datID + "_" + datPos + "_" + simpleName + "_light")
-		stretched_names.add(datID + "_" + datPos + "_" + simpleName + "_dark")
+		relaxed_names.add(simpleName + "")
+		stretched_names.add(simpleName + "_light")
+		stretched_names.add(simpleName + "_dark")
 
 print("Have " + str(len(names)) + " names.")
 

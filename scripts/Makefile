@@ -5,7 +5,7 @@ all :
 create-swatches-csv :
 	rm -f 'Swatch Log - Reorganized.csv'
 	#creates 'Swatch Log - Reorganized.csv':
-	gdrive export --mime text/csv 1IMrSV6Ko_APNaBrBPPJ-oIy15S53_X-9U_buCmDyZfA
+	$(GDRIVE) export --mime text/csv 1IMrSV6Ko_APNaBrBPPJ-oIy15S53_X-9U_buCmDyZfA
 	#filters to create '../swatches.csv':
 	python3 make-swatches-csv.py
 
