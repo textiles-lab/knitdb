@@ -69,14 +69,14 @@ Currently, the smobj utilties are under development so pre-computed yarns or smo
 ## Photos
 The swatches were photographed three times each as part of measurement.
 Relaxed photos were taken by gently sticking the swatch to a piece of sandpaper.
-Stretched photos were taken by stretching the swatch between metal bars attached to weights (TOOD g).
+Stretched photos were taken by stretching the swatch between metal bars attached to weights (608g).
 In the stretched configuration, photos with both light and dark backgrounds were taken.
 
 In some cases, swatches were photographed multiple times to correct errors, in which case a ```.2``` or ```.3``` is appended.
 In other cases, swatches were mistakenly measured twice, in which case a ```.A``` or ```.B``` is used to differentiate and a note appears in ```swatches.csv```.
 (In one instance, a swatch was photographed with the wrong side up, and this is also noted.)
 
-Note that the photos were taken in several sessions with different lighting and white balance settings (sessions can be recovered from EXIF data in the NEF files.)
+Note that the photos were taken in several sessions with different lighting and white balance settings (shooting order can be recovered by using the EXIF data in the NEF files.)
 This is especially noticiable in the first set of relaxed photos, where the white balance stored with the file is significantly flawed.
 We have included a variety of miscellaneous calibration images (```DSC_*.NEF```) which may partially help with white balancing.
 
